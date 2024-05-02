@@ -9,14 +9,17 @@ This project focuses on leveraging Convolutional Neural Networks (CNN) to enhanc
 
 ### Average Precision-Recall (APR)
 ![APR Plot](image/APR.png)
+
 This plot shows the performance of our model in terms of precision and recall across different thresholds, important for evaluating the retrieval capabilities.
 
 ### Accuracy Over Epochs
 ![Accuracy Plot](image/Accuracy.png)
+
 This plot demonstrates the model's accuracy progress during training phases, providing insights into the learning effectiveness.
 
 ### Training Loss
 ![Loss Plot](image/Loss.png)
+
 The loss plot visualizes the reduction in training loss over time, indicating the model’s increasing accuracy in encoding and retrieving batik images.
 
 
