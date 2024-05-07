@@ -48,6 +48,3 @@ Follow these steps to set up and run the application:
      bash
      pip install -r requirements.txt
      
-
-## Contributing
-Agus Eko Minarno
